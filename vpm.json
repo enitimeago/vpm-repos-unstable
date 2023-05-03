@@ -1,0 +1,25 @@
+{
+  "name": "enitama",
+  "id": "io.github.enitama.vpm",
+  "author": "enitama",
+  "url": "https://enitama.github.io/vpm-repos/vpm.json",
+  "packages": {
+    "io.github.enitama.pngminify": {
+      "versions": {
+        "0.0.1": {
+          "name": "io.github.enitama.pngminify",
+          "version": "0.0.1",
+          "displayName": "enitama",
+          "description": "Lossy png minification using pngquant",
+          "unity": "2019.4",
+          "documentationUrl": "https://github.com/enitama/UnityEditorPngMinify",
+          "changelogUrl": "https://github.com/enitama/UnityEditorPngMinify",
+          "licensesUrl": "https://github.com/enitama/UnityEditorPngMinify/blob/main/LICENSE",
+          "license": "MIT",
+          "keywords": [ "PNG" ],
+          "url": "https://github.com/enitama/UnityEditorPngMinify/archive/refs/tags/v0.0.1.zip"
+        }
+      }
+    }
+  }
+}
