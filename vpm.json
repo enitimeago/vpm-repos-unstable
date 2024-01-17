@@ -6,6 +6,19 @@
   "packages": {
     "enitimeago.non-destructive-mmd": {
       "versions": {
+        "0.0.2": {
+          "name": "enitimeago.non-destructive-mmd",
+          "version": "0.0.2",
+          "displayName": "Make It MMD",
+          "description": "Non-destructive MMD blend shape creator",
+          "unity": "2019.4",
+          "documentationUrl": "https://github.com/enitimeago/make-it-mmd",
+          "changelogUrl": "https://github.com/enitimeago/make-it-mmd",
+          "licensesUrl": "https://github.com/enitimeago/make-it-mmd/blob/main/LICENSE.md",
+          "license": "MIT",
+          "keywords": [ "MMD" ],
+          "url": "https://github.com/enitimeago/make-it-mmd/releases/download/0.0.2/enitimeago.non-destructive-mmd-0.0.2.zip"
+        },
         "0.0.1": {
           "name": "enitimeago.non-destructive-mmd",
           "version": "0.0.1",
