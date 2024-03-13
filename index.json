@@ -27,7 +27,8 @@
             "vrchatVersion": "2022.1.1",
             "zipSHA256": "fff21d0b27d1b88f8796c3e496dc673ed4d09c6a4a02ab2a89c27e44d34669a2",
             "url": "https://github.com/enitimeago/make-it-mmd/releases/download/1.0.0/enitimeago.non-destructive-mmd-1.0.0.zip"
-        },
+          }
+        }
       }
     },
     "io.github.enitama.pngminify": {
