@@ -6,6 +6,28 @@
   "packages": {
     "enitimeago.non-destructive-mmd": {
       "versions": {
+        "1.1.0-alpha.1": {
+          "name": "enitimeago.non-destructive-mmd",
+          "displayName": "Make It MMD",
+          "version": "1.1.0-alpha.1",
+          "unity": "2019.4",
+          "description": "Non-destructive MMD blend shape creator",
+          "dependencies": {
+              "com.unity.nuget.newtonsoft-json": "2.0.2"
+          },
+          "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.3.0",
+              "nadena.dev.ndmf": "^1.3.0"
+          },
+          "author": {
+              "name": "eni",
+              "email": "129673786+enitimeago@users.noreply.github.com",
+              "url": "https://github.com/enitimeago"
+          },
+          "vrchatVersion": "2022.1.1",
+          "zipSHA256": "edb6385642eb84a138c1d6c3d53e5e2e87fa59f8575c1a4a644b5e14ef1ad516",
+          "url": "https://github.com/enitimeago/make-it-mmd/releases/download/1.1.0-alpha.1/enitimeago.non-destructive-mmd-1.1.0-alpha.1.zip"
+        },
         "1.0.0": {
           "name": "enitimeago.non-destructive-mmd",
           "displayName": "Make It MMD",
